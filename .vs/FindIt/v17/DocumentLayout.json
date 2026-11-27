@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FindIt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CC7681-5768-4A0F-9458-F4D70A85F06A}|FindIt\\FindIt.csproj|c:\\findit\\findit\\documentaci\u00F3n\\implementation_plan.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A3CC7681-5768-4A0F-9458-F4D70A85F06A}|FindIt\\FindIt.csproj|solutionrelative:findit\\documentaci\u00F3n\\implementation_plan.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CC7681-5768-4A0F-9458-F4D70A85F06A}|FindIt\\FindIt.csproj|c:\\findit\\findit\\documentaci\u00F3n\\current_task.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A3CC7681-5768-4A0F-9458-F4D70A85F06A}|FindIt\\FindIt.csproj|solutionrelative:findit\\documentaci\u00F3n\\current_task.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CC7681-5768-4A0F-9458-F4D70A85F06A}|FindIt\\FindIt.csproj|c:\\findit\\findit\\documentaci\u00F3n\\project_context.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A3CC7681-5768-4A0F-9458-F4D70A85F06A}|FindIt\\FindIt.csproj|solutionrelative:findit\\documentaci\u00F3n\\project_context.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CC7681-5768-4A0F-9458-F4D70A85F06A}|FindIt\\FindIt.csproj|c:\\findit\\findit\\findit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3CC7681-5768-4A0F-9458-F4D70A85F06A}|FindIt\\FindIt.csproj|solutionrelative:findit\\findit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CURRENT_TASK.md",
+              "DocumentMoniker": "C:\\FindIt\\FindIt\\Documentaci\u00F3n\\CURRENT_TASK.md",
+              "RelativeDocumentMoniker": "FindIt\\Documentaci\u00F3n\\CURRENT_TASK.md",
+              "ToolTip": "C:\\FindIt\\FindIt\\Documentaci\u00F3n\\CURRENT_TASK.md",
+              "RelativeToolTip": "FindIt\\Documentaci\u00F3n\\CURRENT_TASK.md",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-25T15:05:56.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMPLEMENTATION_PLAN.md",
+              "DocumentMoniker": "C:\\FindIt\\FindIt\\Documentaci\u00F3n\\IMPLEMENTATION_PLAN.md",
+              "RelativeDocumentMoniker": "FindIt\\Documentaci\u00F3n\\IMPLEMENTATION_PLAN.md",
+              "ToolTip": "C:\\FindIt\\FindIt\\Documentaci\u00F3n\\IMPLEMENTATION_PLAN.md",
+              "RelativeToolTip": "FindIt\\Documentaci\u00F3n\\IMPLEMENTATION_PLAN.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-25T15:06:36.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PROJECT_CONTEXT.md",
+              "DocumentMoniker": "C:\\FindIt\\FindIt\\Documentaci\u00F3n\\PROJECT_CONTEXT.md",
+              "RelativeDocumentMoniker": "FindIt\\Documentaci\u00F3n\\PROJECT_CONTEXT.md",
+              "ToolTip": "C:\\FindIt\\FindIt\\Documentaci\u00F3n\\PROJECT_CONTEXT.md",
+              "RelativeToolTip": "FindIt\\Documentaci\u00F3n\\PROJECT_CONTEXT.md",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-25T15:05:34.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindIt",
+              "DocumentMoniker": "C:\\FindIt\\FindIt\\FindIt.csproj",
+              "RelativeDocumentMoniker": "FindIt\\FindIt.csproj",
+              "ToolTip": "C:\\FindIt\\FindIt\\FindIt.csproj",
+              "RelativeToolTip": "FindIt\\FindIt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-25T15:02:18.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
